@@ -1,0 +1,29 @@
+html {
+    background-color: #B9F8FA;
+}
+
+h1 {
+    color: #8b2bff;
+    font-family: "Fredoka", sans-serif;
+}
+
+h2 {
+    color: #8b2bff;
+    font-family: "Fredoka", sans-serif;
+}
+
+p {
+    color: #8b2bff;
+    font-family: "Fredoka", sans-serif;
+    font-size: larger;
+}
+
+#content {
+    border: 10px solid #F8FAB9;
+    padding: 20px;
+}
+
+.divider {
+    border: 5px solid #F8FAB9;
+    margin: 20px -20px;
+}
